@@ -1,0 +1,7 @@
+# Next.js build and node_modules
+node_modules
+.next
+out
+.env
+.env.local
+.DS_Store
